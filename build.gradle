@@ -10,6 +10,7 @@ repositories {
 }
 
 dependencies {
+    implementation 'org.danilopianini:gson-extras:0.2.2'
     implementation 'com.google.code.gson:gson:2.8.6'
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
